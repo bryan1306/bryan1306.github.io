@@ -1,4 +1,16 @@
 
+<p style="max-width:600px; margin:20px auto; font-size:16px;">
+Ingeniero de Sistemas enfocado en análisis de datos y generación de insights estratégicos para la toma de decisiones. 
+Me especializo en transformar datos en información clara, estructurada y accionable.
+</p>
+</div>
+<div style="text-align:center; margin-top:20px;">
+<a href="https://github.com/bryan1306" 
+style="background:black; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;">
+Ver GitHub
+</a>
+</div>
+
 ---
 
 # 📊 Proyectos
