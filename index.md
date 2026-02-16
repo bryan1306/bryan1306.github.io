@@ -9,10 +9,31 @@ Me interesa generar valor a través de datos, identificar oportunidades de mejor
 
 ---
 
-## 📊 Proyectos Destacados
+## # 📊 Proyectos
 
-### 🛒 Análisis Tienda Online
-Análisis exploratorio de ventas, priorización de hipótesis (ICE / RICE) y test A/B.
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="border:1px solid #e0e0e0; padding:20px; border-radius:10px; width:300px; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
+
+<h3>🛒 Análisis Tienda Online</h3>
+
+<p>Proyecto de análisis de datos enfocado en identificar oportunidades de crecimiento mediante análisis exploratorio y priorización estratégica.</p>
+
+<a href="proyecto-tienda.html"><b>Ver proyecto →</b></a>
+
+</div>
+
+<div style="border:1px solid #e0e0e0; padding:20px; border-radius:10px; width:300px; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
+
+<h3>📈 Dashboard de Ventas</h3>
+
+<p>Construcción de dashboard interactivo para monitorear KPIs comerciales y apoyar decisiones estratégicas.</p>
+
+<a href="proyecto-dashboard.html"><b>Ver proyecto →</b></a>
+
+</div>
+
+</div>
 
 ---
 
