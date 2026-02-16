@@ -62,10 +62,10 @@ Ver proyecto →
 
 ## 🛠️ Herramientas
 
-**Lenguajes y Bases de Datos:** SQL, Python (pandas)  
-**Visualización y BI:** Power BI, Tableau  
-**Análisis y Gestión de Datos:** Excel  
-**Control de Versiones:** Git, GitHub
+*Lenguajes y Bases de Datos:** SQL, Python (pandas)  
+*Visualización y BI:** Power BI, Tableau  
+*Análisis y Gestión de Datos:** Excel  
+*Control de Versiones:** Git, GitHub
 ---
 
 ## 📩 Contacto
