@@ -109,6 +109,7 @@ Ver proyecto →
 ***Visualización y BI:*** Power BI, Tableau  
 ***Análisis y Gestión de Datos:*** Excel  
 ***Control de Versiones:*** Git, GitHub
+
 ---
 
 ## ✅ 🥇 En qué puedo aportar
