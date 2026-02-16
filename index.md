@@ -10,38 +10,50 @@ Me interesa generar valor a través de datos, identificar oportunidades de mejor
 
 # 📊 Proyectos
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content:center; margin-top:30px;">
-<div style="background:white; border-radius:15px; padding:25px; width:320px; box-shadow:0 10px 20px rgba(0,0,0,0.08); transition: transform 0.2s;">
-<h3 style="margin-top:0;">🛒 Análisis Tienda Online</h3>
-<p style="color:gray;">
-Análisis exploratorio de ventas y priorización estratégica para incrementar ingresos.
-</p>
-<p><b>Stack:</b> SQL • Python • Power BI</p>
-<a href="proyecto-tienda.html" style="text-decoration:none; font-weight:bold;">
-Ver proyecto →
-</a>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="background:white; border-radius:15px; padding:25px; width:320px; box-shadow:0 10px 20px rgba(0,0,0,0.08);">
-<h3 style="margin-top:0;">📈 Dashboard Comercial</h3>
-<p style="color:gray;">
-Dashboard interactivo para monitoreo de KPIs y desempeño comercial.
+<div style="border:1px solid #dcdcdc; padding:20px; border-radius:8px; width:320px;">
+
+<h3 style="margin-top:0;">Análisis Tienda Online</h3>
+
+<p>
+Análisis exploratorio de ventas y comportamiento de productos para identificar oportunidades de crecimiento.
 </p>
-<p><b>Stack:</b> Power BI • Excel • SQL</p>
-<a href="proyecto-dashboard.html" style="text-decoration:none; font-weight:bold;">
-Ver proyecto →
-</a>
-</div>
+
+<p><strong>Stack:</strong> SQL | Python | Power BI</p>
+
+<a href="proyecto-tienda.html">Ver proyecto</a>
+
 </div>
 
 <div style="border:1px solid #dcdcdc; padding:20px; border-radius:8px; width:320px;">
+
+<h3 style="margin-top:0;">Dashboard Comercial y KPIs</h3>
+
+<p>
+Construcción de dashboard interactivo para monitoreo de desempeño, ventas y métricas estratégicas.
+</p>
+
+<p><strong>Stack:</strong> Power BI | Excel | SQL</p>
+
+<a href="proyecto-dashboard.html">Ver proyecto</a>
+
+</div>
+
+<div style="border:1px solid #dcdcdc; padding:20px; border-radius:8px; width:320px;">
+
 <h3 style="margin-top:0;">Análisis de Rendimiento Operativo</h3>
+
 <p>
 Evaluación de desempeño operativo mediante análisis de datos para identificar cuellos de botella y oportunidades de mejora.
 </p>
+
 <p><strong>Stack:</strong> SQL | Python | Excel</p>
+
 <a href="proyecto-operativo.html">Ver proyecto</a>
+
 </div>
+
 </div>
 ---
 
