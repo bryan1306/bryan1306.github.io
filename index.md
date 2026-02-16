@@ -16,13 +16,17 @@ Análisis exploratorio de ventas, priorización de hipótesis (ICE / RICE) y tes
 
 ---
 
-## 🧠 Habilidades
+## 🧠 Habilidades Técnicas
 
-- SQL
-- Power BI
-- Python (pandas)
-- Excel
-- Análisis cualitativo y cuantitativo
+- 📊 Análisis exploratorio de datos (**EDA**) y generación de insights accionables  
+- 🗄️ Consultas y manipulación de datos con **SQL** (joins, agregaciones, subqueries)  
+- 🐍 Análisis y transformación de datos con **Python (pandas)**  
+- 📈 Creación de dashboards y KPIs en **Power BI / Tableau**  
+- 📑 Gestión y limpieza de bases de datos en **Excel**  
+- 🔎 Identificación de patrones y oportunidades de mejora en procesos  
+- 🧠 Aplicación de métodos de priorización (**ICE / RICE**)  
+- 📊 Interpretación de métricas de negocio para toma de decisiones  
+- 🔗 Versionado de proyectos con **Git + GitHub**
 
 ---
 
