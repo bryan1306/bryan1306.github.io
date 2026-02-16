@@ -111,6 +111,15 @@ Ver proyecto →
 ***Control de Versiones:*** Git, GitHub
 ---
 
+# En qué puedo aportar
+
+- Transformar datos en información clara y accionable  
+- Diseñar métricas alineadas a objetivos de negocio  
+- Construir dashboards enfocados en toma de decisiones  
+- Analizar procesos para identificar oportunidades de mejora  
+- Actuar como puente entre equipos técnicos y áreas estratégicas 
+
+---
 ## 📩 Contacto
 
 LinkedIn: www.linkedin.com/in/bryan-barrios-carlier  
