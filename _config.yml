@@ -1,7 +1,4 @@
-theme: jekyll-theme-minimal
 title: Bryan Barrios Carlier
-<p align="center">
-  <img src="assets/foto.jpeg" width="180" style="border-radius: 50%;" />
-</p>
 description: Data Analyst Junior | SQL | Power BI | Business Insights
-
+logo: assets/foto.jpg
+theme: jekyll-theme-minimal
