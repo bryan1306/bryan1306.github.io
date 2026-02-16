@@ -111,7 +111,7 @@ Ver proyecto →
 ***Control de Versiones:*** Git, GitHub
 ---
 
-# En qué puedo aportar
+## ✅ 🥇 En qué puedo aportar
 
 - Transformar datos en información clara y accionable  
 - Diseñar métricas alineadas a objetivos de negocio  
