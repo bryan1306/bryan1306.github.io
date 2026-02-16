@@ -1,35 +1,53 @@
-# Bryan Barrios Carlier
+<div style="text-align:center; padding:40px 20px;">
 
-Ingeniero de Sistemas con enfoque en análisis de datos y procesos de negocio. 
-Experiencia en transformación, validación y análisis de información para apoyar la toma de decisiones estratégicas y operativas. 
+<h1 style="font-size:40px; margin-bottom:10px;">Bryan Barrios Carlier</h1>
 
-He desarrollado proyectos de análisis exploratorio, priorización de hipótesis y evaluación de resultados mediante SQL, Python y herramientas de visualización como Power BI. 
+<p style="font-size:20px; color:gray;">
+Data Analyst | Business Intelligence | SQL • Python • Power BI
+</p>
 
-Me interesa generar valor a través de datos, identificar oportunidades de mejora y actuar como puente entre áreas técnicas y de negocio.
-
----
-
-## # 📊 Proyectos
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-<div style="border:1px solid #e0e0e0; padding:20px; border-radius:10px; width:300px; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
-
-<h3>🛒 Análisis Tienda Online</h3>
-
-<p>Proyecto de análisis de datos enfocado en identificar oportunidades de crecimiento mediante análisis exploratorio y priorización estratégica.</p>
-
-<a href="proyecto-tienda.html"><b>Ver proyecto →</b></a>
+<p style="max-width:600px; margin:20px auto; font-size:16px;">
+Ingeniero de Sistemas enfocado en análisis de datos y generación de insights estratégicos para la toma de decisiones. 
+Me especializo en transformar datos en información clara, estructurada y accionable.
+</p>
 
 </div>
 
-<div style="border:1px solid #e0e0e0; padding:20px; border-radius:10px; width:300px; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
+---
 
-<h3>📈 Dashboard de Ventas</h3>
+# 📊 Proyectos
 
-<p>Construcción de dashboard interactivo para monitorear KPIs comerciales y apoyar decisiones estratégicas.</p>
+<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content:center; margin-top:30px;">
 
-<a href="proyecto-dashboard.html"><b>Ver proyecto →</b></a>
+<div style="background:white; border-radius:15px; padding:25px; width:320px; box-shadow:0 10px 20px rgba(0,0,0,0.08); transition: transform 0.2s;">
+
+<h3 style="margin-top:0;">🛒 Análisis Tienda Online</h3>
+
+<p style="color:gray;">
+Análisis exploratorio de ventas y priorización estratégica para incrementar ingresos.
+</p>
+
+<p><b>Stack:</b> SQL • Python • Power BI</p>
+
+<a href="proyecto-tienda.html" style="text-decoration:none; font-weight:bold;">
+Ver proyecto →
+</a>
+
+</div>
+
+<div style="background:white; border-radius:15px; padding:25px; width:320px; box-shadow:0 10px 20px rgba(0,0,0,0.08);">
+
+<h3 style="margin-top:0;">📈 Dashboard Comercial</h3>
+
+<p style="color:gray;">
+Dashboard interactivo para monitoreo de KPIs y desempeño comercial.
+</p>
+
+<p><b>Stack:</b> Power BI • Excel • SQL</p>
+
+<a href="proyecto-dashboard.html" style="text-decoration:none; font-weight:bold;">
+Ver proyecto →
+</a>
 
 </div>
 
@@ -61,3 +79,10 @@ Me interesa generar valor a través de datos, identificar oportunidades de mejor
 
 LinkedIn: www.linkedin.com/in/bryan-barrios-carlier  
 Email: bryanbarrioscarlier@gmail.com
+
+<div style="text-align:center; margin-top:20px;">
+<a href="https://github.com/bryan1306" 
+style="background:black; color:white; padding:10px 20px; border-radius:8px; text-decoration:none;">
+Ver GitHub
+</a>
+</div>
