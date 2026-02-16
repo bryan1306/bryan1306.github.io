@@ -1,7 +1,4 @@
-
-<div style="text-align:center; padding:40px 20px;">
-<h1 style="font-size:40px; margin-bottom:10px;">Bryan Barrios Carlier</h1>
-<p style="font-size:20px; color:gray;">
-Data Analyst | Business Intelligence | SQL • Python • Power BI
-</p>
+theme: jekyll-theme-minimal
+title: Bryan Barrios Carlier
+description: Data Analyst Junior | SQL | Power BI | Business Insights
 
