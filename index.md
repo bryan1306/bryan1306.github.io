@@ -10,47 +10,83 @@ Me interesa generar valor a través de datos, identificar oportunidades de mejor
 
 # 📊 Proyectos
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 25px; justify-content:center;">
 
-<div style="border:1px solid #dcdcdc; padding:20px; border-radius:8px; width:320px;">
+<div style="
+background:white;
+border-radius:12px;
+padding:25px;
+width:320px;
+box-shadow:0 8px 18px rgba(0,0,0,0.08);
+transition: transform 0.25s ease, box-shadow 0.25s ease;
+"
+onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15px 25px rgba(0,0,0,0.12)';"
+onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
+>
 
 <h3 style="margin-top:0;">Análisis Tienda Online</h3>
 
 <p>
-Análisis exploratorio de ventas y comportamiento de productos para identificar oportunidades de crecimiento.
+Análisis exploratorio de ventas y priorización estratégica para identificar oportunidades de crecimiento.
 </p>
 
 <p><strong>Stack:</strong> SQL | Python | Power BI</p>
 
-<a href="proyecto-tienda.html">Ver proyecto</a>
+<a href="proyecto-tienda.html" style="text-decoration:none; font-weight:600;">
+Ver proyecto →
+</a>
 
 </div>
 
-<div style="border:1px solid #dcdcdc; padding:20px; border-radius:8px; width:320px;">
+<div style="
+background:white;
+border-radius:12px;
+padding:25px;
+width:320px;
+box-shadow:0 8px 18px rgba(0,0,0,0.08);
+transition: transform 0.25s ease, box-shadow 0.25s ease;
+"
+onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15px 25px rgba(0,0,0,0.12)';"
+onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
+>
 
-<h3 style="margin-top:0;">Dashboard Comercial y KPIs</h3>
+<h3 style="margin-top:0;">Dashboard Comercial</h3>
 
 <p>
-Construcción de dashboard interactivo para monitoreo de desempeño, ventas y métricas estratégicas.
+Construcción de dashboard interactivo para monitoreo de KPIs y análisis de desempeño.
 </p>
 
 <p><strong>Stack:</strong> Power BI | Excel | SQL</p>
 
-<a href="proyecto-dashboard.html">Ver proyecto</a>
+<a href="proyecto-dashboard.html" style="text-decoration:none; font-weight:600;">
+Ver proyecto →
+</a>
 
 </div>
 
-<div style="border:1px solid #dcdcdc; padding:20px; border-radius:8px; width:320px;">
+<div style="
+background:white;
+border-radius:12px;
+padding:25px;
+width:320px;
+box-shadow:0 8px 18px rgba(0,0,0,0.08);
+transition: transform 0.25s ease, box-shadow 0.25s ease;
+"
+onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15px 25px rgba(0,0,0,0.12)';"
+onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
+>
 
-<h3 style="margin-top:0;">Análisis de Rendimiento Operativo</h3>
+<h3 style="margin-top:0;">Análisis Rendimiento Operativo</h3>
 
 <p>
-Evaluación de desempeño operativo mediante análisis de datos para identificar cuellos de botella y oportunidades de mejora.
+Evaluación de desempeño operativo para identificar cuellos de botella y oportunidades de optimización.
 </p>
 
 <p><strong>Stack:</strong> SQL | Python | Excel</p>
 
-<a href="proyecto-operativo.html">Ver proyecto</a>
+<a href="proyecto-operativo.html" style="text-decoration:none; font-weight:600;">
+Ver proyecto →
+</a>
 
 </div>
 
