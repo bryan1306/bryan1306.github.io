@@ -2,9 +2,9 @@
 # Bryan Barrios Carlier
 
 Ingeniero de Sistemas con enfoque en análisis de datos y procesos de negocio. 
-Experiencia en transformación, validación y análisis de información para apoyar la toma de decisiones estratégicas y operativas.
+Experiencia en transformación, validación e interpretación de información para generar insights accionables.
 
-Me interesa generar valor a través de datos, identificar oportunidades de mejora y actuar como puente entre áreas técnicas y de negocio.
+Me interesa conectar el análisis técnico con la toma de decisiones estratégicas, aportando valor tanto desde la perspectiva de datos como desde el entendimiento del negocio.
 
 ---
 
@@ -25,11 +25,9 @@ onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 
 >
 
 <h3 style="margin-top:0;">Análisis Tienda Online</h3>
-
 <p>
-Análisis exploratorio de ventas y priorización estratégica para identificar oportunidades de crecimiento.
+Análisis de datos históricos para identificar oportunidades de crecimiento en ventas, combinando exploración técnica y enfoque estratégico de negocio.
 </p>
-
 <p><strong>Stack:</strong> SQL | Python | Power BI</p>
 
 <a href="proyecto-tienda.html" style="text-decoration:none; font-weight:600;">
@@ -50,10 +48,10 @@ onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15
 onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
 >
 
-<h3 style="margin-top:0;">Dashboard Comercial</h3>
+<h3 style="margin-top:0;">Dashboard Comercial y KPIs</h3>
 
 <p>
-Construcción de dashboard interactivo para monitoreo de KPIs y análisis de desempeño.
+Diseño de dashboard interactivo para monitorear desempeño comercial y facilitar la toma de decisiones basada en métricas claras.
 </p>
 
 <p><strong>Stack:</strong> Power BI | Excel | SQL</p>
@@ -76,10 +74,10 @@ onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15
 onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
 >
 
-<h3 style="margin-top:0;">Análisis Rendimiento Operativo</h3>
+<h3 style="margin-top:0;">Análisis de Rendimiento Operativo</h3>
 
 <p>
-Evaluación de desempeño operativo para identificar cuellos de botella y oportunidades de optimización.
+Evaluación de procesos operativos mediante análisis de datos para detectar ineficiencias y proponer mejoras medibles.
 </p>
 
 <p><strong>Stack:</strong> SQL | Python | Excel</p>
