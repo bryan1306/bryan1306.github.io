@@ -1,8 +1,6 @@
 
 # Bryan Barrios Carlier
-<p align="center">
-  <img src="assets/foto.jpeg" width="180" style="border-radius: 50%;" />
-</p>
+
 Ingeniero de Sistemas con enfoque en análisis de datos y procesos de negocio. 
 Experiencia en transformación, validación e interpretación de información para generar insights accionables.
 
