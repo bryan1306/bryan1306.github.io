@@ -1,3 +1,9 @@
-title: Bryan Barrios Carlier
-description: Data Analyst Junior | SQL | Power BI | Business Insights
-theme: jekyll-theme-minimal
+<header class="header-con-foto">
+    <img src="perfil.jpg" alt="Foto de Bryan Barrios" class="foto-perfil">
+
+    <div class="texto-header">
+        <h1>Bryan Barrios Carlier</h1>
+        <p>Data Analyst Junior | SQL | Power BI | Business Insights</p>
+        <a href="https://github.com/bryan1306" class="btn">Ver GitHub</a>
+    </div>
+</header>
