@@ -88,6 +88,32 @@ Ver proyecto →
 
 </div>
 
+
+
+<div style="
+background:white;
+border-radius:12px;
+padding:25px;
+width:320px;
+box-shadow:0 8px 18px rgba(0,0,0,0.08);
+transition: transform 0.25s ease, box-shadow 0.25s ease;
+"
+onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15px 25px rgba(0,0,0,0.12)';"
+onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
+>
+
+<h3 style="margin-top:0;">Análisis Tienda Online</h3>
+<p>
+Análisis de datos históricos para identificar oportunidades de crecimiento en ventas, combinando exploración técnica y enfoque estratégico de negocio.
+</p>
+<p><strong>Stack:</strong> SQL | Python | Power BI</p>
+
+<a href="proyecto-tienda.html" style="text-decoration:none; font-weight:600;">
+Ver proyecto →
+</a>
+
+</div>
+
 </div>
 ---
 
