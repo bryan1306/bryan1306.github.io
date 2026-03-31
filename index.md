@@ -108,7 +108,7 @@ Este proyecto analiza el desempeño de ventas de un negocio e-commerce entre los
 </p>
 <p><strong>Stack:</strong> SQL | Python | Power BI</p>
 
-<a href="proyecto-tienda.html" style="text-decoration:none; font-weight:600;">
+<a href="ecommerce-sales-analysis.html" style="text-decoration:none; font-weight:600;">
 Ver proyecto →
 </a>
 
