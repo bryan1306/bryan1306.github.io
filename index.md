@@ -102,9 +102,9 @@ onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 15
 onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='0 8px 18px rgba(0,0,0,0.08)';"
 >
 
-<h3 style="margin-top:0;">Análisis Tienda Online</h3>
+<h3 style="margin-top:0;">ecommerce-sales-analysis</h3>
 <p>
-Análisis de datos históricos para identificar oportunidades de crecimiento en ventas, combinando exploración técnica y enfoque estratégico de negocio.
+Este proyecto analiza el desempeño de ventas de un negocio e-commerce entre los años 2022 y 2024.
 </p>
 <p><strong>Stack:</strong> SQL | Python | Power BI</p>
 
